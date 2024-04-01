@@ -1,6 +1,6 @@
 
-    NAME:AFIFA.A
-    REGISTER NO:212223040008
+    NAME:Amirthavarshini.R.D
+    REGISTER NO:212223040013
 # EX 6: Series Queues with infinite capacity - Open Jackson Network
 
 ## Aim :
